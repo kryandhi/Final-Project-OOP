@@ -13,3 +13,6 @@ Tampilan Dashboard Bus
 
 Tampilan Dashboard Mobil Transport
 ![image](https://user-images.githubusercontent.com/91004582/209372208-8348fda0-0d9e-41f3-888b-030ef407d44e.png)
+
+UML Interface Class
+![uml](https://user-images.githubusercontent.com/91004582/209372413-518fb25a-8118-4d1e-b64d-0449d33712aa.jpeg)
